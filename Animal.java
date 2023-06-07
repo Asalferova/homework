@@ -30,7 +30,7 @@ abstract class Animal {
     }
 }
 
-// Конкретный класс, представляющий домашнее животное
+// Конкретный класс, представляющий домашнее животноеa
 class DomesticAnimal extends Animal {
     public DomesticAnimal(String name, LocalDate birthDate) {
         super(name, birthDate);
