@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-// Основной класс, представляющий приложение для животных
+
 public class AnimalApp {
     public static void main(String[] args) {
         Counter counter = new Counter();
@@ -13,7 +13,7 @@ public class AnimalApp {
         boolean exit = false;
 
         while (!exit) {
-            System.out.println("\nМеню:");
+            System.out.println("\nМеню.:");
             System.out.println("1. Добавить новое животное");
             System.out.println("2. Определять животное в правильный класс");
             System.out.println("3. Увидеть список команд, которое выполняет животное");

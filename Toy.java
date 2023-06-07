@@ -1,4 +1,4 @@
-//Класс игрушки, определяющий свойства игрушек
+
 public class Toy {     
     private int toyID;
     private String title;
@@ -12,7 +12,7 @@ public class Toy {
         this.dropRate = 100 / dropRate;
     }
 
-//геттеры (для получения приватных значений)
+//геттеры (для получения приватных значений.)
     public int getToyID() {
         return toyID;
     }
