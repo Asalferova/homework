@@ -2,6 +2,7 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
+// Абстрактный базовый класс, представляющий животное
 abstract class Animal {
     private String name;
     private LocalDate birthDate;
