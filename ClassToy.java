@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Random;
 
-
+//Класс с методами, реализующими функционал программы
 public class ClassToy {
     private ArrayList<Toy> toys = new ArrayList<>();
     private ArrayList<Toy> prizeToys = new ArrayList<>();
