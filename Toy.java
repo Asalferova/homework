@@ -1,4 +1,4 @@
-
+//Класс игрушки, определяющий свойства игрушек
 public class Toy {     
     private int toyID;
     private String title;
