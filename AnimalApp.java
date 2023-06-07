@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-
+// Основной класс, представляющий приложение для животных
 public class AnimalApp {
     public static void main(String[] args) {
         Counter counter = new Counter();
